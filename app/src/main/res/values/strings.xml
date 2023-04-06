@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="navigate_to_secondary_activity">Navigate to Secondary Activity</string>
+    <string name="press_me">Press Me!</string>
+    <string name="press_me_too">Press Me, Too!</string>
+    <string name="zero">0</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_practical_test01_secondary">Leanback
+        PracticalTest01SecondaryActivity
+    </string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="all_terms">All terms</string>
+    <string name="add">Add</string>
+    <string name="compute">compute</string>
+</resources>
